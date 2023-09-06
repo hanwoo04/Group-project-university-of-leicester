@@ -135,3 +135,9 @@ while start:
 #           the same letter twice      cant be made                   Expected
 #           (the tile only appears once)
 #       
+
+
+#Authors
+#Sam Green
+#Isiah Jones
+#Kevin Han

@@ -30,3 +30,4 @@ print(Scores)
 print(Tiles)
 print(Dictionary)
 
+#Author Sam Green

@@ -22,3 +22,4 @@ print(myTiles)
 word = input("Enter the word: ")
 print(canBeMade(word.upper(), myTiles))
 
+#Author Kevin Han

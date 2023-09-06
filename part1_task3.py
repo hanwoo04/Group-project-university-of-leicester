@@ -31,3 +31,4 @@ def getLetterScore(letter):
 #3          "Something went wrong"      "Something went wrong"
 #aj    "Error! Use only one letter"    "Error! Use only one letter"
 
+#Author Isiah Jones

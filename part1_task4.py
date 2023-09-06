@@ -24,3 +24,4 @@ def getWordScore(word):
 #3              Invalid character, use numbers only  Invalid character, use numbers only
 #3hundred       Invalid word             Invalid word
 
+#Author Isiah Jones

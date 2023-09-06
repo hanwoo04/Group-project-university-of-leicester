@@ -13,3 +13,5 @@ def onlyEnglishLetters(word):
         return False
 
 print(onlyEnglishLetters("Z"))
+
+#Author Sam Green
