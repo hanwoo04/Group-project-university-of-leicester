@@ -58,6 +58,6 @@ word = input("Enter a word: ")
 print(isValid(word,myTiles,dictionary))
 
 
-#Author Kevin Hann
+#Author Kevin Han
 
 
